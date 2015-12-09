@@ -1,0 +1,71 @@
+{
+  "name": "Freifunk Bad Oldesloe",
+  "url": "https://badoldesloe.freifunk.net",
+  "location": {
+    "city": "Bad Oldesloe",
+    "country": "DE",
+    "lat": 53.81,
+    "lon": 10.37
+  },
+  "contact": {
+    "email": "info@badoldesloe.freifunk.net",
+    "ml": "allgemeine-liste@stormarn.freifunk.net",
+    "twitter": "@freifunk_od"
+  },
+  "metacommunity": "Freifunk Stormarn",
+  "state": {
+    "nodes": 100,
+    "description": "Unter der Metacommunity Freifunk Stormarn wollen wir im Kreis Stormarn ein gemeinsames Freifunk aufbauen. Unsere gemeinsame Freifunk SSID stormarn.freifunk.net",
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
+    ],
+    "lastchange": "2015-12-09T15:40:14.441Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "http://map.ffod.org/data/nodelist.json",
+      "interval": "1min",
+      "technicalType": "nodelist",
+      "mapType": "list/status"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon",
+      "url": "http://stormarn.freifunk.net/firmware/",
+      "vpnaccess": "fwimage"
+    },
+    "dns": [
+      {
+        "domainname": "ffod"
+      }
+    ],
+    "networks": {
+      "ipv6": [
+        {
+          "network": "fddf:bf7:80::/64"
+        }
+      ],
+      "ipv4": [
+        {
+          "network": "10.144.0.0/16"
+        }
+      ]
+    },
+    "routing": [
+      "802.11s",
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpninternational"
+    ]
+  },
+  "api": "0.4.10"
+}
