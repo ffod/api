@@ -1,0 +1,35 @@
+{
+  "name": "Freifunk Herzogtum Lauenburg",
+  "url": "http://www.freifunk-lauenburg.de",
+  "location": {
+    "city": "Kreis Herzogtum Lauenburg",
+    "country": "DE",
+    "lat": 53.6077,
+    "lon": 10.5822
+  },
+  "contact": {
+    "email": "info@lauenburg.freifunk.net"
+  },
+  "state": {
+    "nodes": 103,
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
+    ],
+    "lastchange": "2015-11-14T12:19:21.882Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "http://map.freifunk-lauenburg.de"
+    }
+  ],
+  "api": "0.4.9",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
