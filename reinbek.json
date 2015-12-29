@@ -1,21 +1,21 @@
 {
-  "name": "Freifunk Reinbek",
-  "url": "http://reinbek.freifunk.net",
+  "name": "Freifunk Stormarn",
+  "url": "http://stormarn.freifunk.net",
   "location": {
     "city": "Reinbek",
     "country": "DE",
-    "lat": 53.517,
-    "lon": 10.244
+    "lat": 53.81,
+    "lon": 10.37
   },
   "contact": {
-    "email": "info@reinbek.freifunk.net",
+    "email": "info@stormarn.freifunk.net",
     "ml": "allgemeine-liste@stormarn.freifunk.net",
     "twitter": "@freifunk_od"
   },
   "metacommunity": "Freifunk Stormarn",
   "state": {
-    "nodes": 30,
-    "description": "Unter der Metacommunity Freifunk Stormarn wollen wir im Kreis Stormarn ein gemeinsames Freifunk aufbauen. Unsere gemeinsame Freifunk SSID stormarn.freifunk.net\r\nJeden 2. Freitag im Monat treffen wir uns 18:30Uhr im JUZ Reinbek.",
+    "nodes": 70,
+    "description": "Unter der Metacommunity Freifunk Stormarn wollen wir im Kreis Stormarn ein gemeinsames Freifunk aufbauen. Unsere gemeinsame Freifunk SSID stormarn.freifunk.net",
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
@@ -23,7 +23,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2015-12-09T15:47:09.440Z"
+    "lastchange": "2015-12-09T15:40:14.441Z"
   },
   "nodeMaps": [
     {
@@ -33,21 +33,11 @@
       "mapType": "list/status"
     }
   ],
-  "support": {
-    "donations": {
-      "campaigns": [
-        {
-          "provider": "betterplace",
-          "projectid": "32516"
-        }
-      ]
-    }
-  },
   "techDetails": {
     "firmware": {
       "name": "gluon",
       "url": "http://stormarn.freifunk.net/firmware/",
-      "vpnaccess": "automatic"
+      "vpnaccess": "fwimage"
     },
     "dns": [
       {
