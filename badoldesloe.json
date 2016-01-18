@@ -27,7 +27,7 @@
   },
   "nodeMaps": [
     {
-      "url": "http://map.badoldesloe.freifunk.net/nodelist.json",
+      "url": "http://map.badoldesloe.freifunk.net/nodes.json",
       "interval": "1min",
       "technicalType": "nodelist",
       "mapType": "list/status"
