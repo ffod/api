@@ -29,7 +29,7 @@
     {
       "url": "http://map.badoldesloe.freifunk.net/nodes.json",
       "interval": "1min",
-      "technicalType": "nodelist",
+      "technicalType": "meshviewer",
       "mapType": "list/status"
     }
   ],
@@ -67,5 +67,5 @@
       "vpninternational"
     ]
   },
-  "api": "0.4.10"
+  "api": "0.4.11"
 }
