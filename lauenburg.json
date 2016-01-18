@@ -23,7 +23,10 @@
   },
   "nodeMaps": [
     {
-      "url": "http://map.freifunk-lauenburg.de"
+      "url": "http://maprz.stormarn.freifunk.net/nodes.json",
+      "interval": "1min",
+      "technicalType": "nodelist",
+      "mapType": "list/status"
     }
   ],
   "api": "0.4.9",
