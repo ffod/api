@@ -27,7 +27,7 @@
   },
   "nodeMaps": [
     {
-      "url": "http://map.stormarn.freifunk.net/data/nodelist.json",
+      "url": "http://map.stormarn.freifunk.net/dataapi/nodes.json",
       "interval": "1min",
       "technicalType": "nodelist",
       "mapType": "list/status"
