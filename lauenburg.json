@@ -11,7 +11,7 @@
     "email": "info@lauenburg.freifunk.net"
   },
   "state": {
-    "nodes": 103,
+    "nodes": 33,
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
