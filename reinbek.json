@@ -14,7 +14,7 @@
   },
   "metacommunity": "Freifunk Stormarn",
   "state": {
-    "nodes": 147,
+    "nodes": 151,
     "description": "Unter der Metacommunity Freifunk Stormarn wollen wir im Kreis Stormarn ein gemeinsames Freifunk aufbauen. Unsere gemeinsame Freifunk SSID freifunk-stormarn.de",
     "focus": [
       "infrastructure/backbone",
