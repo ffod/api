@@ -23,7 +23,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2015-12-09T15:40:14.441Z"
+    "lastchange": "2016-05-11T15:17:32.151Z"
   },
   "nodeMaps": [
     {
@@ -33,6 +33,11 @@
       "mapType": "list/status"
     }
   ],
+  "socialprojects": {
+    "number": 4,
+    "website": "https://wiki.freifunk.net/Freifunk_Stormarn#Treffen",
+    "contact": "info@freifunk-stormarn.de"
+  },
   "techDetails": {
     "firmware": {
       "name": "gluon",
@@ -61,11 +66,12 @@
       "batman-adv"
     ],
     "updatemode": [
+      "manual",
       "autoupdate"
     ],
     "legals": [
       "vpninternational"
     ]
   },
-  "api": "0.4.10"
+  "api": "0.4.13"
 }
