@@ -27,7 +27,7 @@
   },
   "nodeMaps": [
     {
-      "url": "https://map.freifunk-stormarn.de/data/nodelist.json",
+      "url": "http://map.freifunk-stormarn.de/data/nodelist.json",
       "interval": "1min",
       "technicalType": "nodelist",
       "mapType": "list/status"
