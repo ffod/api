@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Bad Oldesloe",
-  "url": "http://badoldesloe.freifunk.net",
+  "url": "http://freifunk-badoldesloe.de",
   "location": {
     "city": "Bad Oldesloe",
     "country": "DE",
@@ -8,9 +8,8 @@
     "lon": 10.37
   },
   "contact": {
-    "email": "info@badoldesloe.freifunk.net",
-    "ml": "allgemeine-liste@stormarn.freifunk.net",
-    "twitter": "@freifunk_od"
+    "email": "info@freifunk-badoldesloe.de",
+    "twitter": "@ff_badoldesloe"
   },
   "metacommunity": "Freifunk Stormarn",
   "state": {
@@ -23,11 +22,11 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2015-12-09T15:40:14.441Z"
+    "lastchange": "2016-12-11T21:54:14.441Z"
   },
   "nodeMaps": [
     {
-      "url": "http://map.badoldesloe.freifunk.net/nodes.json",
+      "url": "https://map.freifunk-stormarn.de/nodes.json",
       "interval": "1min",
       "technicalType": "meshviewer",
       "mapType": "list/status"
@@ -36,12 +35,12 @@
   "techDetails": {
     "firmware": {
       "name": "gluon",
-      "url": "http://badoldesloe.freifunk.net/firmware/",
+      "url": "http://freifunk-badoldesloe.de/firmware/",
       "vpnaccess": "fwimage"
     },
     "dns": [
       {
-        "domainname": "int.badoldesloe.freifunk.net"
+        "domainname": "freifunk-oldesloe.de"
       }
     ],
     "networks": {
