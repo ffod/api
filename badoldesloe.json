@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Bad Oldesloe",
-  "url": "http://freifunk-badoldesloe.de",
+  "url": "https://freifunk-badoldesloe.de",
   "location": {
     "city": "Bad Oldesloe",
     "country": "DE",
@@ -9,12 +9,14 @@
   },
   "contact": {
     "email": "info@freifunk-badoldesloe.de",
+    "phone": "+49 4539 2180785",
+    "facebook": "https://www.facebook.com/freifunkbadoldesloe",
     "twitter": "@ff_badoldesloe"
   },
   "metacommunity": "Freifunk Stormarn",
   "state": {
     "nodes": 4,
-    "description": "Unter der Metacommunity Freifunk Stormarn wollen wir im Kreis Stormarn ein gemeinsames Freifunk aufbauen. Unsere gemeinsame Freifunk SSID stormarn.freifunk.net",
+    "description": "Unter der Metacommunity Freifunk Stormarn wollen wir im Kreis Stormarn ein gemeinsames Freifunk aufbauen.",
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
@@ -22,7 +24,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-12-11T21:54:14.441Z"
+    "lastchange": "2016-12-11T21:01:55.759Z"
   },
   "nodeMaps": [
     {
@@ -63,8 +65,8 @@
       "autoupdate"
     ],
     "legals": [
-      "vpninternational"
+      "vpnnational"
     ]
   },
-  "api": "0.4.11"
+  "api": "0.4.14"
 }
