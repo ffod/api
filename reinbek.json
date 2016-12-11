@@ -9,12 +9,13 @@
   },
   "contact": {
     "email": "info@freifunk-stormarn.de",
+    "phone": "+49 4539 2180785",
     "twitter": "@freifunk_od"
   },
   "metacommunity": "Freifunk Stormarn",
   "state": {
-    "nodes": 151,
-    "description": "Unter der Metacommunity Freifunk Stormarn wollen wir im Kreis Stormarn ein gemeinsames Freifunk aufbauen. Unsere gemeinsame Freifunk SSID freifunk-stormarn.de",
+    "nodes": 213,
+    "description": "Unter der Metacommunity Freifunk Stormarn wollen wir im Kreis Stormarn ein gemeinsames Freifunk aufbauen. Unsere Freifunk SSID stormarn.freifunk.net",
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
@@ -22,7 +23,7 @@
       "Local services and content",
       "Free internet access"
     ],
-    "lastchange": "2016-12-11T21:56:32.151Z"
+    "lastchange": "2016-12-11T21:03:58.965Z"
   },
   "nodeMaps": [
     {
@@ -72,5 +73,5 @@
       "vpninternational"
     ]
   },
-  "api": "0.4.13"
+  "api": "0.4.14"
 }
